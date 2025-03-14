@@ -32,10 +32,29 @@ Here you’ll find examples of my work in various areas of cybersecurity:
 https://youtube.com/@kindekecarpetcleaning?si=6IXwXzfchHrAYPuC
 
 ### [Penetration Testing](./Projects/Penetration-Testing)
-Detailed write-ups and walkthroughs of penetration testing engagements, including tools, techniques, and results.
+Detailed write-ups and walkthroughs of penetration testing engagements, including tools, techniques, and results.# Penetration Testing Projects
+
+### [Project Name: Web Application Penetration Test](./WebApp-Pentest)
+**Tools Used:** Kali Linux, Burp Suite, Metasploit, Nmap
+
+**Description:**
+In this project, I performed a penetration test on a web application to identify security vulnerabilities. The test was carried out in a controlled environment with permission from the client. I discovered several vulnerabilities including SQL injection and XSS, and I worked with the development team to remediate them.
+
+### [Project Name: Network Penetration Test](./Network-Pentest)
+**Tools Used:** Nmap, Wireshark, Nessus
+
+**Description:**
+This network penetration test involved scanning the client's internal network for potential vulnerabilities. The findings included unpatched devices and misconfigured firewalls. I provided recommendations to harden the network security posture.
 
 ### [Incident Response](./Projects/Incident-Response)
 Case studies of security incidents, including detection, analysis, and response strategies.
+# Incident Response Projects
+
+### [Project Name: Malware Infection Response](./Malware-Infection-Response)
+**Tools Used:** Splunk, VirusTotal, Volatility
+
+**Description:**
+I responded to an internal malware infection incident. After identifying the suspicious activity, I used forensic tools to analyze the malware's behavior and tracked down the root cause. The incident was contained, and I assisted in developing mitigation strategies to prevent future occurrences.
 
 ### [Capture The Flag Challenges](./Projects/Capture-The-Flag)
 CTF challenges completed on platforms like Hack The Box, TryHackMe, etc., with detailed solutions.
@@ -45,6 +64,12 @@ Reports on security audits I've performed, including findings, remediation recom
 
 ## Blog
 I share my thoughts, tutorials, and insights on the latest in cybersecurity. [Visit my blog](  https://dev-enfant -carpet-cleaning.pantheonsite.io/ ) for articles on security trends, vulnerabilities, and more.
+# How to Conduct a Penetration Test: A Step-by-Step Guide
+
+In this post, I explain the essential steps to perform a penetration test. I'll cover everything from gathering information to exploiting vulnerabilities and generating reports.
+
+## Step 1: Information Gathering
+- Use tools like Nmap and Netcat to discover hosts and open ports...
 
 ## Contact
 Feel free to reach out to me via [LinkedIn]( https://www.linkedin.com/in/kindeke-carpet-cleaning-3505821bb  or email at [your-email roddykindeke@gmail.com.
